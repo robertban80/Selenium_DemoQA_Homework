@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5177ce0f-97f4-478b-9183-6e39527d6b36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demoqa/StudentRegistrationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LizFl8oJyNv62Ufn4YKMCdJuh3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/robert.ban/IdeaProjects/Selenium_DemoQA_Homework&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.StudentRegistrationForm.register (2)">
+    <configuration name="StudentRegistrationForm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_DemoQA_Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoqa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.StudentRegistrationForm" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRegistrationForm.register (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_DemoQA_Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoqa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.StudentRegistrationForm" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRegistrationForm.register (2)" type="TestNG" nameIsGenerated="true">
+      <module name="Selenium_DemoQA_Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoqa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.StudentRegistrationForm" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRegistrationForm.register (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_DemoQA_Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoqa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.StudentRegistrationForm" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRegistrationForm.register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_DemoQA_Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoqa" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.StudentRegistrationForm" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_DemoQA_Homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.StudentRegistrationForm.register (3)" />
+        <item itemvalue="TestNG.StudentRegistrationForm" />
+        <item itemvalue="TestNG.StudentRegistrationForm.register" />
+        <item itemvalue="TestNG.StudentRegistrationForm.register (1)" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5177ce0f-97f4-478b-9183-6e39527d6b36" name="Changes" comment="" />
+      <created>1676368590428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676368590428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
